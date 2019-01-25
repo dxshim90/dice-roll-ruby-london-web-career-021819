@@ -4,5 +4,5 @@
 
 def roll()
   dice = rand(1..6)
-  return dice.to_i
+  return dice
 end
